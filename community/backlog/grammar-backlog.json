@@ -477,12 +477,12 @@
     "id": 80,
     "text": "\"〜てはじめて\" means \"only after...\".",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 81,
     "text": "\"〜に気づく\" means \"to notice / realize...\".",
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
