@@ -68,8 +68,7 @@
     "english": "well then/see you",
     "region": "Hokkaido",
     "note": "Transition/goodbye phrase. (Set 3)"
-  }
-,
+  },
   {
     "dialect": "よか",
     "standardJapanese": "いい",
@@ -78,18 +77,18 @@
     "note": "Common Kyushu replacement. (Set 5)"
   },
   {
-  "dialect": "〜ばい",
-  "standardJapanese": "〜だよ",
-  "english": "sentence ending",
-  "region": "Fukuoka",
-  "note": "Assertive friendly ending. (Set 6)"
-},
+    "dialect": "〜ばい",
+    "standardJapanese": "〜だよ",
+    "english": "sentence ending",
+    "region": "Fukuoka",
+    "note": "Assertive friendly ending. (Set 6)"
+  },
   {
-  "dialect": "しばれる",
-  "standardJapanese": "とても寒い",
-  "english": "freezing cold",
-  "region": "Hokkaido",
-  "note": "Used for severe winter cold. (Set 4)"
+    "dialect": "しばれる",
+    "standardJapanese": "とても寒い",
+    "english": "freezing cold",
+    "region": "Hokkaido",
+    "note": "Used for severe winter cold. (Set 4)"
   },
   {
     "dialect": "〜だがや",
@@ -97,5 +96,12 @@
     "english": "sentence ending",
     "region": "Nagoya",
     "note": "Strong Nagoya marker. (Set 3)"
+  },
+  {
+    "dialect": "にふぇーでーびる",
+    "standardJapanese": "ありがとうございます",
+    "english": "thank you",
+    "region": "Okinawa",
+    "note": "Okinawan gratitude expression. (Set 4)"
   }
 ]
