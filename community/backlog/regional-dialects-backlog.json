@@ -636,7 +636,7 @@
     "region": "Kansai",
     "note": "Used for prohibition/failure. (Set 4)",
     "id": 64,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
