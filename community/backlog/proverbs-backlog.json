@@ -991,7 +991,7 @@
     "english": "Fate is strange yet delightful",
     "meaning": "Unexpected connections can be good",
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "id": 111,
@@ -1000,7 +1000,7 @@
     "english": "It's darkest under the lighthouse",
     "meaning": "The obvious is often overlooked",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 112,
