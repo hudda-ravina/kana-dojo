@@ -2,13 +2,14 @@
 /* All animations use vertical (Y-axis) movement only for smooth, subtle floating effects */
 /* All animations are 5s or slower for a calm, dreamy aesthetic */
 
-/* Float (primary) - 7px upward movement, 5.5s cycle (symmetric, very subtle) */
+/* Float (primary) - Uses CSS variable --float-distance for customizable movement */
 @keyframes float {
-  0%, 100% {
+  0%,
+  100% {
     transform: translateY(0px);
   }
   50% {
-    transform: translateY(-7px);
+    transform: translateY(var(--float-distance, -6.5px));
   }
 }
 
@@ -38,4 +39,3 @@
   /* --animate-float-slow: float-slow 6s ease-in-out infinite; */
   /* --animate-levitate: levitate 5s ease-in-out infinite; */
 }
-
