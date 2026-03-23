@@ -186,8 +186,8 @@
     "game": "Tales series",
     "character": "Various endings",
     "id": 19,
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": true
   },
   {
     "japanese": "勝つと思うな、思えば負けよ",
@@ -386,8 +386,8 @@
     "game": "Tales series",
     "character": "Various endings",
     "id": 39,
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": true
   },
   {
     "japanese": "勝つと思うな、思えば負けよ",
@@ -1186,8 +1186,8 @@
     "game": "Tales series",
     "character": "Various endings",
     "id": 119,
-    "issued": true,
-    "completed": false
+    "issued": false,
+    "completed": true
   },
   {
     "japanese": "勝つと思うな、思えば負けよ",

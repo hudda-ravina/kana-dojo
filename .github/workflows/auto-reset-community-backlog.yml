@@ -73,6 +73,8 @@ jobs:
               ['culturalEtiquette', 'cultural-etiquette-backlog.json'],
               ['exampleSentence', 'example-sentences-backlog.json'],
               ['commonMistake', 'common-mistakes-backlog.json'],
+              ['wallpaperUrl', 'wallpaper-urls-backlog.json'],
+              ['communityNote', 'community-notes-backlog.json'],
             ];
 
             if (!Number.isInteger(minimumAvailable) || minimumAvailable < 0) {
