@@ -924,7 +924,7 @@
     "note": "混雑時は特に配慮する。",
     "id": 103,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "食事前 6",
@@ -1005,7 +1005,7 @@
     "note": "先に謝罪が基本。",
     "id": 112,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "situation": "写真撮影（寺社） 6",
@@ -1013,7 +1013,7 @@
     "dont": "禁止場所で撮影する",
     "note": "御本尊周辺は撮影不可が多い。",
     "id": 113,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
